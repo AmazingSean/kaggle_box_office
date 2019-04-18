@@ -6,3 +6,8 @@ Qs to be solved in EDA:
 3. How does release date influence box office?
 
 4. 
+
+
+Interestring variables:
+Budget
+Genres
