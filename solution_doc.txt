@@ -1,11 +1,13 @@
 Qs to be solved:
 1. How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
 
-2. How does production company influence box office?
+2. 
 
-3. How does release date influence box office?
+3. 
 
 4. 
+
+---------------------------------------------------------
 
 ========================================
 7/19
@@ -13,3 +15,8 @@ Qs to be solved:
 - TODO: finish the eda
 
 =======================================
+7/22
+- completed simple variable EDA
+- TODO: dig deep into the dataset
+
+
