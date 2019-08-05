@@ -1,9 +1,9 @@
-Qs to be solved in EDA:
+TODO EDA:
 1. How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
 
 2. How does production company influence box office?
 
-3. How does release date influence box office?
+3. How does events correspond to fluctuation of box office throughout 1912-2017?
 
 4. 
 
