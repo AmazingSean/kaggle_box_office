@@ -1,22 +1,20 @@
 Qs to be solved:
-1. How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
+Q: How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
 
-2. 
+S:
+
+Q: In fact, we use the information from the future to predict the revenues of the past movies, which means that the training dataset might contains information about testset - a indicator of data leakage.
+
+S:
 
 3. 
 
 4. 
 
 ---------------------------------------------------------
-
-========================================
-7/19
-- decided which sample to learn from
-- TODO: finish the eda
-
-=======================================
-7/22
-- completed simple variable EDA
-- TODO: dig deep into the dataset
-
-
+potential added features:
+- whether the crew/cast won an Academy Award
+- opening weekend box office
+- cast economic history (recent five movies)
+- cast_count?
+- revenues and budgets after the inflation adjustments
