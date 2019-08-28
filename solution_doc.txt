@@ -1,5 +1,5 @@
 Qs to be solved:
-Q: How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
+1;5202;0cQ: How to integrate collection information? If the movie is in a collection, it means that there are previous movies made and it is popular. Is it true that movies with a collection have higher box office?
 
 S:
 
@@ -10,7 +10,8 @@ S:
 Q: Do Oscar nominated films tend to generate more revenues?
 A: 
 
-4. 
+Q: The revenues are likely to be revenues in US&Canada. The box office of international movies tend to be much lower, what to do with that?
+A: 
 
 ---------------------------------------------------------
 potential added features:
@@ -19,3 +20,8 @@ potential added features:
 - cast economic history (recent five movies). Named economic_index
 - cast_count?
 - revenues and budgets after the inflation adjustments
+- ratings of the films
+
+
+TODO:
+- write an utils.py
