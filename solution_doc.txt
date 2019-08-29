@@ -15,13 +15,18 @@ A:
 
 ---------------------------------------------------------
 potential added features:
-- whether the crew/cast won an Academy Award. Named artistic_index
+- whether the crew/cast won an Academy Award. Named artistic_index (added, low correlation, probably need adjustments)
 - opening weekend box office
-- cast economic history (recent five movies). Named economic_index
+- cast economic history (recent five movies). Named economic_index (added by calculation)
 - cast_count?
 - revenues and budgets after the inflation adjustments
 - ratings of the films
-
+- previous collection revenues; whether the film is in a collection
+- production company idx(like economic_idx of cast/crew)
+- distributor_idx
+- how many regions were the movie released? (obtained from imdb)
+- construct index from Keywork variable?
 
 TODO:
 - write an utils.py
+- we try to predict the revenues made in US&Canada
