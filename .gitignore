@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# py_api
+**/py_api.py
+
+# datasets
+**.csv
+
+# catboost related
+**/catboost_info
